@@ -277,7 +277,7 @@ plt.ylabel("Height (m)")
 plt.grid(True)
 plt.show()
 ```
-
+![Output](https://github.com/Arif-miad/AI-Terminology/blob/main/image%20(1).png)
 
  
  
